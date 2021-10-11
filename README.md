@@ -1,5 +1,4 @@
 # SGO CONSTRUÇÕES
-Projeto atualmente congelado, esperamos que em breve seja concluído.
 
 <div>
   <img 
